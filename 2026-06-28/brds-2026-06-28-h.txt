@@ -1,0 +1,20 @@
+Given a patient with the following characteristics:
+age: 67
+sex: man 
+current symptoms: into ICU diffuse abd pain, nausea, malaise, fever x several days. No BM x 3 days with diarrhea prior. lost 4.5 kg over 1 month poor appetite. no meds. hx of heavy alcohol use but none x 1 year.
+past medical history: otherwise negative
+physical exam: moderate distress. HR 135, BP 80/50, oxygen 88% pulse ox. abd with LLQ tenderness hypoactive BS. No rebound. otherwise unremarkable 
+labs: wbc 25K, t bili 1.0. alt 50 ast 40, alk phos 92. lactate 10, lipase 50. blood cultures strep bovis.
+otherwise negative
+
+other findings: 
+Imaging: abd x-ray: dilated loops of small and large bowel. No free air or pneumatosis.
+
+Which options are most likely?:
+A) ascending cholangitis
+B) colorectal cancer
+C) gastric cancer
+D) emphysematous cholecystitis.
+
+my answer is B
+Your answer? Your reasons?

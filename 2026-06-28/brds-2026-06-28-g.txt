@@ -1,0 +1,16 @@
+Given a patient with the following characteristics:
+age: 24
+sex: man 
+current symptoms: 2 weeks ago ED for jaundice and epigastric pain. CT shows focal bile duct dilation. MRI shows distal bile duct cyst near ampulla. 
+past medical history: otherwise negative
+physical exam: otherwise unremarkable with normal VS
+
+
+Which options are the best now?:
+A) MRCP in 1 yr
+B) ERCP with sphincterotomy and biopsy
+C) surgical bile duct resection
+D) eval for liver transplant
+
+my answer is C
+Your answer? Your reasons?

@@ -1,0 +1,22 @@
+Given a patient with the following characteristics:
+age: 40
+sex: man
+past medical history: negative except for taking ibuprofen PRN for back pain.
+symptoms: presents to ED with 1 episode of melena last night without pain, nausea or vomiting.
+physical exam: unremarkable, HR 75, BP 115/70
+labs: hgb 13.5 (low), BUN 12 (nml), creatinine .7, eGFR >60
+other findings: 
+
+While in the ED VS remain stable, no further melena. Glasgow-Blachford bleeding score is 1
+
+In addition to stopping ibuprofen, Which options are the best?:
+A) Discharge home on oral PPI. plan for outpatient EGD
+B) Repeat HGB in 12 hours and then decide about disposition
+C) Maintain NPO in preparation for EGD in 24 hours
+D) Start high-dose IV PPI and monitor Hgb level
+E) null
+
+my answer is C since he has had one likely episode of self-limited upper gi bleed from ibuprofen, but may rebleed at any time.
+Your answer? Your reasons?
+Correct is A since a GBS of 0 or 1 suggests very low risk of bleeding. No need for in patient EGD. 
+

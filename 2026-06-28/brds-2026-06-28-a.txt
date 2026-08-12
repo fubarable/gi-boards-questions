@@ -1,0 +1,22 @@
+Given a patient with the following characteristics:
+age: 68
+sex: man
+current symptoms: being extubated after 3 days in ICU with severe covid pneumonia. with abd distention x 24 hours and lack of rectal tube output. NG tube with minimal bilious output. History of methadone use in remote past.
+past medical history: negative
+physical exam: abdomen distended and tympanitic with mild diffuse tenderness. No rebound. otherwise unremarkable with normal VS
+labs: WBC 12k, potassium 3.4 otherwise negative
+
+other findings: 
+Imaging:
+EGD 
+Colonoscopy
+
+Which evalutions are the best next?:
+A) US
+B) CT abd pelvis with contrast
+C) Barium enema
+D) diagnostic colonoscopy
+
+my answer is CT
+Your answer? Your reasons?
+Yes

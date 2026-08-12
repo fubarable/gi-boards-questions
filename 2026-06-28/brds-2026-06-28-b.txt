@@ -1,0 +1,22 @@
+Given a patient with the following characteristics:
+age: 48
+sex: man 
+current symptoms: abdominal pain left side, diarrhea, occasional fresh blood mixed with stool. History of uncomplicated diverticulitis.
+past medical history: otherwise negative
+physical exam: mild LLQ tenderness. otherwise unremarkable with normal VS
+labs: CBC and CMP normal. Fecal calprotectin elevated at 238 mcg/g, otherwise negative
+
+other findings: 
+Imaging: CT diverticulosis, no evidence for diverticulitis. Colonoscopy diverticulosis with extensive peridiverticular erythema and edema with superficial erosions. otherwise normal. 
+
+Treated with cipro and flagyl for 2 weeks with improvement but then symptoms recur. 
+EGD 
+Colonoscopy
+
+Which diagnosis is the best?:
+A) segmental colitis with diverticulosis
+B) ischemic colitis
+C) ulcerative colitis
+
+my answer is A most likely, B less likely. Not C
+Your answer? Your reasons?

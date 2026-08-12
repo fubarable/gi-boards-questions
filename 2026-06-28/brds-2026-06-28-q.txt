@@ -1,0 +1,23 @@
+Given a patient with the following characteristics:
+age: 73
+sex: man 
+current symptoms: resected cutaneous melanoma metastatic to the liver. with watery diarrhea for 2 weeks. has received second dose of ipilmumab 6 weeks ago and completed a 3 day course of TMP/SMX 3 weeks ago for UTI. Stool negative for C diff and bacterial pathogens 1 week ago.
+past medical history: otherwise negative
+physical exam: otherwise unremarkable with normal VS
+labs: otherwise negative
+
+other findings: 
+Imaging:
+flex sig: diffuse friable granular mucosa with multiple ulcers up to 60 cm above anal verge. Biopsies show PMN cryptitis with crypt abscesses. 
+
+Admitted given high dose methylprednisolone for 7 days without improvement
+
+Which of the following is best to prescribe now?:
+A) infliximab
+B) meslamine
+C) valganciclover
+D) vancomycin
+
+my answer is: A, definitely A. check point inhibitor colitis, no? And this can be treated with TNF blockers.
+
+Your answer? Your reasons?

@@ -1,0 +1,19 @@
+Given a patient with the following characteristics:
+age: 48
+sex: woman
+current symptoms: mildly elevated LFT. 
+past medical history: hyperlipidemia on atorvastatin otherwise negative
+physical exam: mildly overweight otherwise unremarkable with normal VS
+labs: ferritin 110, ALT 79, AST 42, ANA 1:40, ASMA 1:40, hepatitis viral serologies negative. otherwise negative
+
+other findings: 
+Imaging: ultrasound consistent with fatty liver
+
+Which following best to recommend?:
+A) fibrosis-4 test
+B) repeat autoantibody tests
+C) trial of corticosteroid
+D) liver biopsy
+
+my answer is A, fib-4 test to asses risk of MASH or NASH and risk of development of cirrhosis. 
+Your answer? Your reasons?

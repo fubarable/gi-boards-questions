@@ -1,0 +1,21 @@
+Given a patient with the following characteristics:
+age: 29
+sex: man 
+current symptoms: elevated LFT on 2 occasions separated by 4 months. No symptoms.
+past medical history: negative. healthy diet, exercises. no meds.
+physical exam: bmi 23. appears healthy. normal VS
+labs: Hgb 14.1, wbc 4200, plt 322K, INR 1.0, total bili 1.1, bun 12, creatinine 0.87, alb 4.8, alk phos 289, alt 52, ast35, anti-self antibodies negative. viral serologies negative. normal ceruloplasmin. 
+otherwise negative
+
+other findings: 
+Imaging: MRI and MRCP: multifocal intrahepatic strictures without a dominant stricture. no cirrhosis seen. no signs of portal HTN. 
+
+Which next tests are the best?:
+A) EGD
+B) ERCP
+C) Colonoscopy 
+D) Liver biopsy
+
+my answer is: C colonoscopy to check for UC given likely diagnosis of PSC.
+
+Your answer? Your reasons?

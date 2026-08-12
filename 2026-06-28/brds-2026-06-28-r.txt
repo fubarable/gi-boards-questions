@@ -1,0 +1,21 @@
+Given a patient with the following characteristics:
+
+age: 32
+sex: woman
+current symptoms: celiac disease diagnosed 1 yr ago continues to have chronic diarrhea. unintentional wt loss 5 lbs. states she is adherent to gluten free diet but has had persistent symptoms since diagnosis. at diagnosis tTG IgA antibodies were 10 times ULN. EGD duod biopsies Marsh 3 disease. Missed multiple f/u appointments.
+past medical history: otherwise negative
+physical exam: thin, pallor. otherwise unremarkable with normal VS
+labs: tTG IgA antibodies unchanged. otherwise negative
+
+other findings: 
+EGD duod biopsies again Marsh 3 histology with increased intraepithelial lymphocytes, subtotal villous atrophy, crypto hyperplasia. flow cytometry negative. 
+Colonoscopy
+
+Which options are the best next step?:
+A) eval patient for other causes of villous atrophy
+B) Treat patient for refractory celiac disease
+C) refer to dietician
+
+my answer is: C. Dietary compliance is the most likely problem and it could be due to ignorance of disease, diet, and risks of not following diet.
+
+Your answer? Your reasons?

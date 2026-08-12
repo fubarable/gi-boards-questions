@@ -1,0 +1,23 @@
+Given a patient with the following characteristics:
+age: 50
+sex:  woman
+current symptoms: hospital for acute pancreatitis. serum triglyceride level very high 1480. CT of abd shows pancreatic edema with a large fluid collection adjacent to pancreas and poster to the stomach. 12 weeks post discharge, returns to the ED with increasing central abdominal pain, vomiting, loss of appetite, 6.8 kg wt loss, frequent urination without dysuria. no fever or chills. 
+past medical history: negative
+physical exam: central bad distention without mass with mild tenderness without rebound or guarding. normal BS.  otherwise unremarkable with normal VS
+labs: hct 32, wbc 68K, total bili 2.4, alk phos 231, ast 90, alt 76, lipase 343,  otherwise negative
+
+other findings: 
+Imaging: CT 14 cm by 9 cm pseudocyst with 7 mm thick distinct wall and clear fluid. CBD 11 mm without stones. Distal CBD not well seen. 
+EGD 
+Colonoscopy
+
+Which options are the best for next step?:
+A) ercp with biliary stent
+B) endoscopic cyst gastrostomy
+C) percutaneous fluoroscopic drainage
+D) surgical drainage
+
+my answer is: B. the cyst may be blocking bile flow?
+
+Your answer? Your reasons?
+yes. it's a large mature pseudocyst with well-organized fibrous wall causing symptoms of mass effect. 

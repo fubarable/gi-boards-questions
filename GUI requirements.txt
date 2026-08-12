@@ -1,0 +1,9 @@
+I want to create a Java Swing GUI for data entry. The user will click on check boxes, radio buttons, drop-down lists as well as enter text into text fields and text areas. When the click on a button at the bottom, a well-formatted text string is generated and copied to the clipboard, one that encapsulates the data entered.
+
+The fields that need to be entered include: 
+- A JTextField with a DocumentFilter to allow only numbers for age in years
+- JRadioButtons to allow selection of Man or Women
+- A JTextArea inside of a JScrollPane for the user to enter "Current Symptoms". It should have 5 rows visible, perhaps 30 chars column count.
+-  A JTextArea inside of a JScrollPane for the user to enter "Past Medical History". It should have 5 rows visible, perhaps 30 chars column count.
+- A JTextArea inside of a JScrollPane for the user to enter "Physical Exam". It should have 5 rows visible, perhaps 30 chars column count.
+- A JTextArea inside of a JScrollPane for the user to enter "Labs". It should have 5 rows visible, perhaps 30 chars column count.

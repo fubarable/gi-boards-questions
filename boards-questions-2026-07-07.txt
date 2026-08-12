@@ -1,0 +1,223 @@
+=========== Clinical Problem ===========
+Gender: Male
+Age: 32
+HPI: fever, malaise, nausea, jaundice, dark urine x 7 days. Otherwise healthy on no meds.
+Exam Findings: ill, icteric, temp 37.2, pulse 98, BP 110/70, icterus, tenderness over RUQ otherwise the examination was unremarkable
+Lab Results: INR 1.2, total bili 8.0, alk phos 320, ALT 2100, AST 1800, anti-HAV IgM positive. negative for anti-HbsAg, anti-HBs, anti-HCV, positive anti-HBc otherwise the lab results are normal.
+WorkUp & course: 
+Prompt: Which option is most likely?
+Possible Answers:
+  A. self-limited infection
+  B. chronic course of infection
+  C. relapsing course of infection
+  D. progression to acute liver failure
+  E. 
+My selected Answer: self-limited infection
+Rationale: 
+
+What answer do you think is best and why?
+========================================
+
+
+=========== Clinical Problem ===========
+Gender: Female
+Age: 45
+HPI: elevated LFT, asymptomatic, no prior liver history, no significant alcohol use.
+Exam Findings: no distress, bmi 23, vss, mild scleral icterus noted. normal abd exam otherwise the examination was unremarkable
+Lab Results: hgb 13.8, creatinine 1.0, total bili 2.8, indirect bili 2.4, alk phos 59, alt 28, ast 31, lipase 88 otherwise the lab results are normal.
+WorkUp & course: ultrasound of RUQ shows 8mm gallbladder stone otherwise normal.
+Prompt: What next step is best?
+Possible Answers:
+  A. reassurance only
+  B. ursodeoxycholic acid
+  C. mrcp
+  D. lap cholecystectomy
+  E. 
+My selected Answer: reassurance only
+Rationale: probable gilbert's syndrome, no?
+
+What answer do you think is best and why?
+========================================
+
+
+=========== Clinical Problem ===========
+Gender: Male
+Age: 45
+HPI: worsening nausea, vomiting, reduced oral intake x 3 months. epigastric fullness after eating or derinking, with 11.3 kg wt loss / 3 mo. Prior had no problems. No meds.
+Exam Findings: thin, temporal muscle wasting, abdomen is distended with hypoactive bowel sounds, tenderness to palpation over epigastrium. multiple hyperpigmented macules on lips, palms, soles. otherwise the examination was unremarkable
+WorkUp & course: EGD: multiple sessile and pedunculated polyps in stomach and duodenal bulb. 2nd portion of duodenum with near obstructing mass. Biopsies of polyps show hamartomas. Mass is adenocarcinoma.
+Prompt: Which best explains clinical picture?
+Possible Answers:
+  A. Lynch synd
+  B. Cowden syndrome
+  C. Familial adenomatous polyposis
+  D. Peutz-Jeghers syndrome
+  E. 
+My selected Answer: Peutz-Jeghers syndrome
+Rationale: D because the hamartomas and lip lesions. But I'm not sure.
+
+What answer do you think is best and why?
+========================================
+
+
+=========== Clinical Problem ===========
+Gender: Female
+Age: 50
+HPI: anemia painful paresthesias of both feet. Pins and needles sensation x 6 months. Past Roux-en-y gastric bypass surgery 18 yrs ago.
+Exam Findings: hr 75, resp 18, bp 120/80, oxygen 97% pulse ox otherwise the examination was unremarkable
+Lab Results: hgb 9.0, mcv 80, wbc 4000, ANC 403, normal platelet, folate, serum B1, serum B12, plasma homocysteine. otherwise the lab results are normal.
+WorkUp & course: brain MRI unremarkable
+Prompt: Which best explains clinical picture?
+Possible Answers:
+  A. iron deficiency
+  B. vitamin A  deficiency
+  C. copper deficiency
+  D. vitamin K deficiency
+  E. 
+My selected Answer: copper deficiency
+Rationale: I am really really not sure
+
+What answer do you think is best and why?
+
+Copper deficiency is in fact the answer.
+Bottom line: post-gastric bypass + normocytic anemia + severe neutropenia + peripheral neuropathy with normal B12/folate/homocysteine = copper deficiency until proven otherwise. Trust your instinct — C is correct, and it's a diagnosis worth knowing cold for anyone managing post-bariatric patients long-term.
+========================================
+
+
+=========== Clinical Problem ===========
+Gender: Male
+Age: 70
+HPI: admitted to the hospital for RUQ abd pain, fever, rigors. 20 yrs ago, s/p cholecystectomy.
+Exam Findings: T 39.1 C, HR 102, bp 88/50, mild RUQ tenderness otherwise the examination was unremarkable
+Lab Results: wbc 15000, total bili 3.5, alk phos 453 otherwise the lab results are normal.
+WorkUp & course: CT shows 18 mm CBD with large impacted stone in distal CBD
+Prompt: What next step is best?
+Possible Answers:
+  A. percutaneous transhepatic imaging with biliary drainage
+  B. ERCP with stent placement followed by stone extraction
+  C. antibiotic therapy followed by ERCP with stone extraction.
+  D. 
+  E. 
+My selected Answer: ERCP with stent placement followed by stone extraction
+Rationale: either B or A, not C since he's septic
+
+What answer do you think is best and why?
+
+Your instinct that ERCP is required was right — but the sequence matters. The patient is septic, so antibiotics come first, then urgent ERCP.
+
+ERCP is absolutely required — but:
+You must give antibiotics first
+ERCP is not delayed, but it is not performed before antibiotics
+Stent placement is used when stone extraction cannot be done immediately
+The question asks for the best next step, and the next step in a septic patient is antibiotics
+
+========================================
+
+
+=========== Clinical Problem ===========
+Gender: Female
+Age: 64
+HPI: pain epigastrium x 1 yr associated with epigastric fullness, nausea, early satiety. Prior cholecystectomy 10 yrs ago. LFT normal. EGD normal. gastric antral biopsies negative for H. pylori. duod biopsies negative for celiac disease
+Past Medical History: HTN otherwise the past medical history is negative.
+Exam Findings: mild dull tenderness on palpation of the epigastrium. otherwise the examination was unremarkable
+WorkUp & course: 
+Prompt: Which option is the best?
+Possible Answers:
+  A. psychotherapy
+  B. prokinetic agent
+  C. PPI
+  D. tricyclic agent
+  E. 
+My selected Answer: tricyclic agent
+Rationale: 
+
+What answer do you think is best and why?
+
+Correct answer is B, PPI since it is first line for non-ulcer dyspepsia. If it fails, then try tricyclic.
+========================================
+
+
+=========== Clinical Problem ===========
+Gender: Male
+Age: 66
+HPI: intermittent epigastric pain x 3 mo. no radiation, better after eating. antacids have helped a little.
+Past Medical History: CAD, HTN, HLD, DM-II. On htcz, atorvastatin,metformin, asa 81 mg otherwise the past medical history is negative.
+Exam Findings: afeb, hr 70, regular, resp 12, bp 128/90 otherwise the examination was unremarkable
+Lab Results: hgb 14, mcv 90, wbc 4500, platelet 250000, inr 1.0 otherwise the lab results are normal.
+WorkUp & course: 
+Prompt: What next step is best?
+Possible Answers:
+  A. H. pylori breath test
+  B. fecal occult blood test
+  C. CT of abdomen
+  D. upper endoscopy
+My selected Answer: upper endoscopy
+Rationale: given age and comorbidities, i'm worried about pud. A is also a possibility
+
+What answer do you think is best and why?
+
+age ≥60 + uninvestigated dyspepsia = upper endoscopy first, per guidelines, to exclude malignancy before any empiric treatment pathway. Your answer and your PUD concern are both correct — D is right.
+========================================
+
+
+=========== Clinical Problem ===========
+Gender: Male
+Age: 47
+HPI: alcohol associated liver disease w/ grade I nonbleeding esophageal varices on EGD 6 mo ago. pre liver transplant eval. incidentally found PVT (clot) by CT. the pvt does not extend to the superior mesenteric vein, no features of cavernouse transformation. Also has encephalopathy, difficult to control ascites, intermittent jaundice. hospitalized for asthma 2 yrs ago. meds: spironolactone, lasix, lactulose
+Exam Findings: afeb, hr 84, resp 18, bp 120/65. severe conjunctival icterus noted with many spider angimoas on chest and back. abd with slight ascites. liver 13 cm by percussion. spleen slightly enlarged. otherwise the examination was unremarkable
+Lab Results: hct 33, hgb 11, wbc 3.1k, plt 75k, inr 1.5, bun nml, creatinine nml, total bili 8.0, albumin 2.7, alk phos 172, alt 42, ast 53. meld score 21 otherwise the lab results are normal.
+WorkUp & course: 
+Prompt: What next step is best?
+Possible Answers:
+  A. start anticoagulation rx
+  B. start propranolol
+  C. place a tips
+  D. repeat US in 1 month
+My selected Answer: start anticoagulation rx
+Rationale: his pvt is contributing to his state and can progress and make him decompensate faster
+
+What answer do you think is best and why?
+========================================
+
+
+=========== Clinical Problem ===========
+Gender: Female
+Age: 34
+HPI: post prandial fullness, early satiety that bothers, and prevents finishing meal x 5 months. symptoms occur 4 days per week. has assoc epigastric pain but no nausea, vomiting, melena or wt loss. famotidine has not helped. also has exercise induced asthma on albuterol.
+Exam Findings: mild pain on palpation of the epigatrium. no mass no distention. otherwise the examination was unremarkable
+Lab Results: hgb 14, LFT normal otherwise the lab results are normal.
+WorkUp & course: 
+Prompt: Which option is the best?
+Possible Answers:
+  A. urea breath test for H pylori
+  B. CT of the abdomen
+  C. ultrasound of the gallbladder
+  D. upper endoscopy
+My selected Answer: urea breath test for H pylori
+Rationale: right age for test-and-treat as first line
+
+What answer do you think is best and why?
+========================================
+
+
+=========== Clinical Problem ===========
+Gender: Male
+Age: 75
+HPI: emergency department for severe periumbilical abd pain x 1 day. no fever, no gi bleeding.
+Past Medical History: HLD, HTN, recently diagnosed atrial fibrillation. On rosuvastatin and amlodipine otherwise the past medical history is negative.
+Exam Findings: VS normal. hrt rhythem irreg, irreg. abd soft, nontender, mildly distended. otherwise the examination was unremarkable
+Lab Results: CBC normal. lactate 7.0, amylase 800 otherwise the lab results are normal.
+WorkUp & course: abd Xray nonspecific
+Prompt: What next step is best?
+Possible Answers:
+  A. abd US
+  B. abd CT enterography
+  C. abd CT angiography
+  D. biliopancreatic EUS
+My selected Answer: abd CT angiography
+Rationale: this smells like possible ischemic gut. He is at risk for this given his a-fib.
+
+What answer do you think is best and why?
+========================================
+
+

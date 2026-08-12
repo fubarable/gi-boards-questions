@@ -1,0 +1,24 @@
+Given a patient with the following characteristics:
+age: 45
+sex: man 
+current symptoms: history of liver transplantation for PSC 8 weeks prior now in ED with jaundice and malaise. LFT normal at discharge 8 weeks ago.
+past medical history: otherwise negative
+physical exam: otherwise unremarkable with normal VS
+labs: total bili 3.5, alk phos 135, ALT 320, AST 290. 
+otherwise negative
+
+other findings: 
+Imaging: Doppler US shows normal hepatic artery flow.
+EGD 
+Colonoscopy
+
+Which is the most likely complication?:
+A) biliary stricture
+B) chronic graft rejection
+C) hepatic artery thrombosis
+D) acute graft rejection
+
+my answer is B vs. D. I think that they are out of the acute window, but I'm not sure.
+
+Your answer? Your reasons?
+D -- acute is anywhere from 0 to 12 weeks out and typically is between 4 and 8 weeks. It is usually hepatocellular whereas chronic is more often cholestatic and is months to years later. 

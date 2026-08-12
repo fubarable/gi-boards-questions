@@ -1,0 +1,24 @@
+Given a patient with the following characteristics:
+age: 56
+sex: man
+current symptoms: newly diagnosed cirrhosis history of alcohol abuse, referred to me. has fatigue. drinks 2 pints of liquor per week but quit with diagnosis. no jaundice or liver specific symptoms. 
+past medical history: type 2 DM on glipizide otherwise negative
+physical exam: unremarkable with normal VS
+labs: normal CBC except platelets low 86K. INR 1.3. Total bili 2.3. Normal alk phos, ast, alt, AFP. Negative viral serologies otherwise negative
+
+other findings: 
+Imaging: US: nodular liver course echotexture. no focal lesions. 
+EGD: 3 columns of small esophageal varices, portal gastropathy and large varices in the gastric fundus. no red markings. 
+Colonoscopy
+
+Which options are the best?:
+A) Start carvedilol
+B) Start metoprolol
+C) Proceed with variceal band ligation
+D) Refer to radiology for balloon-occluded retrograde transvenous obliteration.
+E) refer to radiology for TIPS.
+
+my answer is: A. I am not familiar with D
+
+Your answer? Your reasons?
+The answer was A. D is for gastric varices post bleed if the have a significant and demonstrable gastrorenal shunt

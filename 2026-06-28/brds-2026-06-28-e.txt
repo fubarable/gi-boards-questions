@@ -1,0 +1,22 @@
+Given a patient with the following characteristics:
+age: 55
+sex: man 
+current symptoms: signs of cirrhosis incidentally seen on recent CT. Having LUQ abdominal pain x 3 months. 
+past medical history: otherwise negative
+physical exam: splenomegaly and mild tenderness in LUQ otherwise unremarkable with normal VS
+labs: platelets low 102K, total bili normal. Albumin 3.1. AST 22, ALT20. HBsAg positive, HBsAg negative. HBV DNA 1050. otherwise negative
+
+other findings: 
+Imaging: CT cirrhosis with splenomegaly and perisplenic varices. 
+EGD 
+Colonoscopy
+
+Which options are the best?:
+A) Start nucleoside analogue treatment now
+B) start interferon now
+C) Start nucleoside analogue if viral load over 2000 IU/ml
+D) Start nucleoside analogue if viral load over 20000 IU/ml
+
+my answer is A. They have definite hep B with cirrhosis and need any and all help to prevent progression and development of liver cancer
+
+Your answer? Your reasons?

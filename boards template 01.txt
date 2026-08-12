@@ -1,0 +1,23 @@
+Given a patient with the following characteristics:
+
+age: 
+sex: man woman
+current symptoms: 
+past medical history: otherwise negative
+physical exam: otherwise unremarkable with normal VS
+labs: otherwise negative
+
+other findings: 
+Imaging:
+EGD 
+Colonoscopy
+
+Which options are the best?:
+A) 
+B) 
+C) 
+D) 
+
+my answer is: 
+
+Your answer? Your reasons?
