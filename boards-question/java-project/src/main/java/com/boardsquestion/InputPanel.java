@@ -16,11 +16,13 @@ import java.awt.GridBagLayout;
 import java.awt.GridLayout;
 import java.awt.event.KeyEvent;
 import java.awt.Toolkit;
+import java.awt.Window;
 import java.awt.datatransfer.StringSelection;
 
 import javax.swing.AbstractAction;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
+import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 import javax.swing.JRadioButton;
@@ -55,7 +57,10 @@ public class InputPanel extends JPanel {
     private ButtonGroup possibleAnswersGroup;
     private JButton submitButton;
     private JButton clearButton;
+    private JButton addSolutionsButton;
     private JButton exitButton;
+    private SolutionsPanel solutionsPanel;  
+    private String solutionsFileName; // Store the file name for solutions  
 
     public InputPanel() {
         ageField = new JTextField(TEXT_FIELD_COLUMNS);
@@ -115,14 +120,18 @@ public class InputPanel extends JPanel {
         submitButton.setMnemonic(KeyEvent.VK_S);
         clearButton = new JButton("Clear");
         clearButton.setMnemonic(KeyEvent.VK_C);
+        addSolutionsButton = new JButton("Add Solutions");
+        addSolutionsButton.setMnemonic(KeyEvent.VK_A);
         exitButton = new JButton("Exit");
         exitButton.setMnemonic(KeyEvent.VK_X);
         submitButton.addActionListener(e -> handleSubmitAction());
         clearButton.addActionListener(e -> clearAllInputFields());
+        addSolutionsButton.addActionListener(e -> handleAddSolutionsAction());
         exitButton.addActionListener(e -> System.exit(0));
-        JPanel buttonPanel = new JPanel(new GridLayout(1, 3, 2, 2));
+        JPanel buttonPanel = new JPanel(new GridLayout(2, 2, 2, 2));
         buttonPanel.add(submitButton);
         buttonPanel.add(clearButton);
+        buttonPanel.add(addSolutionsButton);
         buttonPanel.add(exitButton);
         JPanel possibleAnswersPanel = new JPanel(new GridBagLayout());
         possibleAnswers = new JTextField[NUM_POSSIBLE_ANSWERS];
@@ -237,6 +246,9 @@ public class InputPanel extends JPanel {
         buttonRow.gridwidth = 2;
         buttonRow.fill = java.awt.GridBagConstraints.HORIZONTAL;
         add(buttonPanel, buttonRow);
+
+        solutionsFileName = "boards-questions-" + LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE) + ".txt";
+        solutionsPanel = new SolutionsPanel(solutionsFileName);
     }
 
     public void setClinicalProblemModel(ClinicalProblemModel clinicalProblemModel) {
@@ -264,8 +276,8 @@ public class InputPanel extends JPanel {
     }
 
     private void writeProblemModelStringToFile(String text) {
-        String fileName = "boards-questions-" + LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE) + ".txt";
-        Path outputFile = Paths.get(System.getProperty("user.dir"), fileName);
+        // String fileName = "boards-questions-" + LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE) + ".txt";
+        Path outputFile = Paths.get(System.getProperty("user.dir"), solutionsFileName);
         String textToWrite = text.endsWith(System.lineSeparator()) ? text : text + System.lineSeparator();
 
         try {
@@ -346,6 +358,15 @@ public class InputPanel extends JPanel {
         copyToClipboard(problemModelString);
         writeProblemModelStringToFile(problemModelString);
         System.out.print(problemModelString);
+    }
+
+    private void handleAddSolutionsAction() {
+        Window parentWindow = javax.swing.SwingUtilities.getWindowAncestor(this);
+        JDialog solutionsDialog = new JDialog(parentWindow, "Solutions", JDialog.ModalityType.APPLICATION_MODAL);
+        solutionsDialog.add(solutionsPanel);
+        solutionsDialog.pack();
+        solutionsDialog.setLocationByPlatform(true);
+        solutionsDialog.setVisible(true);
     }
 
     private String createProblemModelString(ClinicalProblemModel model) {

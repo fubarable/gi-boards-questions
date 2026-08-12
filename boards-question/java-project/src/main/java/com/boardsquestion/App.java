@@ -18,7 +18,7 @@ public class App {
         frame.setVisible(true);
     }
 
-    public int add(int left, int right) {
-        return left + right;
-    }
+    // public int add(int left, int right) {
+    //     return left + right;
+    // }
 }
