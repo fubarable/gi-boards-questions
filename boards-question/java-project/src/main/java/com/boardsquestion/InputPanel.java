@@ -365,7 +365,7 @@ public class InputPanel extends JPanel {
         if (model.labs() != null && !model.labs().trim().isEmpty()) {
             output.append("Lab Results: ").append(model.labs()).append(" otherwise the lab results are normal.\n");
         }
-        output.append("WorkUp & course: ").append(model.workup()).append("\n");
+        output.append("Workup & course: ").append(model.workup()).append("\n");
         // only append the inAdditionTo field if it is not empty
         if (model.inAdditionTo() != null && !model.inAdditionTo().trim().isEmpty()) {
             output.append("In Addition To ").append(model.inAdditionTo()).append("\n");
