@@ -389,6 +389,7 @@ public class InputPanel extends JPanel {
         }
         output.append("Rationale: ").append(model.myExplanation()).append("\n\n");
         output.append("What answer do you think is best and why?\n");
+        output.append("Please include a brief summary paragraph at the end.\n");
         output.append("========================================\n\n");
 
         return output.toString();
